@@ -1,0 +1,32 @@
+# Página de Treinamento
+
+Este projeto é uma página de treinamento criada com o objetivo de praticar habilidades de desenvolvimento web. O layout foi projetado inicialmente no Webflow, uma plataforma popular para design visual de websites.
+
+## Conteúdo
+
+O conteúdo deste projeto inclui seções típicas de uma página web, como cabeçalho, seções de conteúdo e rodapé. O foco principal é praticar a implementação do layout utilizando HTML e CSS.
+
+## Ferramentas Utilizadas
+
+- **Webflow**: O layout foi inicialmente projetado e prototipado no Webflow para facilitar a criação visual.
+- **HTML**: O conteúdo da página é estruturado utilizando HTML.
+- **CSS**: O estilo da página é definido usando CSS para melhorar a aparência e o layout.
+
+## Instruções de Uso
+
+1. Clone este repositório em sua máquina local.
+2. Abra o arquivo `index.html` em seu navegador para visualizar a página.
+3. Pode também acessar ele direto pelo Deploy do githubPages
+
+## Estrutura do Projeto
+
+- **index.html**: Arquivo principal que contém a estrutura HTML da página.
+- **style.css**: Arquivo de estilo CSS que define a aparência da página.
+
+## Notas
+
+Este projeto é apenas para fins educacionais e de treinamento. Sinta-se à vontade para explorar, modificar e melhorar conforme necessário. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
+
+---
+
+**Nota:** Este projeto não tem afiliação oficial com o Webflow. O Webflow foi utilizado apenas como uma ferramenta de design visual durante a fase inicial do projeto.
